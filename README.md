@@ -1,4 +1,4 @@
-# MarzoLanding
+# MarzoaLanding
 Landing de muestra
 
-https://marzoar.github.io/MarzoLanding/
+https://marzoar.github.io/MarzoaLanding/
